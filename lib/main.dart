@@ -174,7 +174,7 @@ class _PlatformChannelPageState extends State<PlatformChannelPage> {
                         border: OutlineInputBorder(),
                         labelText: 'Tulis pesan Toast',
                         hintText:
-                            'Contoh: Halo dari mahasiswa Flutter!',
+                            'Contoh: NIM 2411500033 Nama Hanin Fadhilah!',
                       ),
                     ),
 
